@@ -98,3 +98,15 @@ p {
 .links:hover{
     background-color: lightblue;
 }
+
+html{
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+}
+
+.article:hover{
+    color: azure;
+}
